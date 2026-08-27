@@ -972,7 +972,7 @@ The architecture separates collection, analysis, correlation, scoring, integrati
 
 | Team Member | Main Contribution |
 |---|---|
-| **Malak Mahmoud** | Security Behavior Profiling Engine and behavioral security analysis |
+| **Malak Mahmoud Abdullah** | Security Behavior Profiling Engine and behavioral security analysis |
 | **Jana Muhammad Ali** | Backend & Frontend Development, HTTP Scanner, and User Discovery |
 | **Mahmoud Basem Ibrahim Ismail** | OSINT Lookup Layer |
 | **Ahmed Fouad** | `robots.txt` Analyzer |
